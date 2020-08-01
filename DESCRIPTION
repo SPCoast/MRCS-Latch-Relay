@@ -1,4 +1,4 @@
-First line: This board has a relay and supporting components and implements a latch circuit for alerting operators to call the Dispatcher as part of
+This board has a relay and supporting components and implements a latch circuit for alerting operators to call the Dispatcher as part of
 a model railroad telephone system, typical applications include:
 •	Lighting an indicator (a limiting resistor is provided for LEDs, but a 12V light bulb can be substituted) after a station is initially called (buzzed): the indicator will remain lit until the associated phone is picked up.  This allows for an unmanned location to be called or can be used at a manned location where the operator may be busy with another task and might forget to call back.
 •	Lighting an indicator at the Dispatcher’s desk indicating that a call request has been made but not answered
@@ -10,14 +10,3 @@ Features:
 •	Jumper to select 12V or ground for LED/Lamp supply
 •	Extra +12V and GND connections for easy daisy chaining and connections to phones
 •	Compact (1.2” x 2”) footprint allows the relay latch to be placed inside standard phones, close by our Cup Hook Phone or placed at a central location close to the Dispatcher
-
-
-Remaining lines: a verbose changelog of what makes this "git version" different from the last.
-Use this space (in Markdown format) to describe the context and details of the changes.
-This section should be 5 to 20 lines of interesting detail; each version tab in the project will 
-display this text to help the reader understand why this version is differnet...
-
-The published project on the SPCoast.github.io website will
-include the relevant git commit messages as a terse, high level
-changelog, so don't replicate those messages here.
-
