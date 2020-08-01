@@ -1,5 +1,4 @@
-# REPO NAME: EagleTemplate-new
-## License: CERN Open Hardware Licence v1.2
+# REPO NAME: MRCS-Relay-Latch
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 Delete one of the license lines above, and replace this line and following with the contents of the doc.md file
